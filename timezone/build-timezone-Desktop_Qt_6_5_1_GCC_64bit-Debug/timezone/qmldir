@@ -1,0 +1,5 @@
+module timezone
+typeinfo apptimezone.qmltypes
+prefer :/timezone/
+Main 1.0 Main.qml
+

@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "/home/prafful/timezone/build-timezone-Desktop_Qt_6_5_1_GCC_64bit-Debug/apptimezone_autogen",
+	"CMAKE_BINARY_DIR" : "/home/prafful/timezone/build-timezone-Desktop_Qt_6_5_1_GCC_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/prafful/timezone/build-timezone-Desktop_Qt_6_5_1_GCC_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/prafful/timezone/timezone",
+	"CMAKE_SOURCE_DIR" : "/home/prafful/timezone/timezone",
+	"INCLUDE_DIR" : "/home/prafful/timezone/build-timezone-Desktop_Qt_6_5_1_GCC_64bit-Debug/apptimezone_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/prafful/timezone/timezone/satellite.jpg",
+		"/home/prafful/timezone/timezone/satellite2.jpg"
+	],
+	"LOCK_FILE" : "/home/prafful/timezone/build-timezone-Desktop_Qt_6_5_1_GCC_64bit-Debug/CMakeFiles/apptimezone_autogen.dir/AutoRcc_resc_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resc" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resc.cpp",
+	"RCC_EXECUTABLE" : "/home/prafful/Qt/6.5.1/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/prafful/timezone/build-timezone-Desktop_Qt_6_5_1_GCC_64bit-Debug/CMakeFiles/apptimezone_autogen.dir/AutoRcc_resc_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/prafful/timezone/timezone/resc.qrc",
+	"VERBOSITY" : 0
+}
